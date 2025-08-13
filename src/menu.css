@@ -1,0 +1,70 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+}
+
+.about {
+    position: relative;
+    left: 200px;
+    top: 107px;
+    border-radius: 800px;
+}
+
+.about_img {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    border-radius: 800px;
+}
+
+.resume {
+    position: relative;
+    color: black;
+    right: 200px;
+    border-radius: 800px;
+    bottom: 0px;
+    right: 200px;
+}
+
+.resume_img {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    color: black;
+    border-radius: 800px;
+}
+
+.contact {
+    position: relative;
+    border-radius: 800px;
+    color: black;
+    right: 200px;
+}
+
+.contact_img {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    color: black;
+    border-radius: 800px;
+}
+
+.project {
+    position: relative;
+    color: black;
+    left: 200px;
+    top: 107px;
+    border-radius: 800px;
+}
+
+.project_img {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    color: black;
+    border-radius: 800px;
+}

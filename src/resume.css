@@ -1,0 +1,72 @@
+#ResumeInfo {
+  height: 90vh;
+  width: 95vw;
+  background-image: url("/Others/code.jpg");
+  background-repeat: no-repeat;
+  background-position-x: 890px;
+  background-position-y: 350px;
+  background-size: 700px;
+}
+
+.CP {
+    position: relative;
+    height: 100px;
+    right: 400px;
+    top: 10px;
+}
+
+.PPAI {
+    position: relative;
+    height: 100px;
+    right: 500px;
+    top: 460px;
+    width: 100px;
+}
+
+.AAR {
+    position: relative;
+    height: 100px;
+    top: 310px;
+    right: 600px;
+}
+
+.HT {
+    position: relative;
+    height: 100px;
+    top: 160px;
+    right: 700px;
+}
+
+.CP-Info {
+    color: white;
+    text-align: left;
+    position: relative;
+    bottom: 110px;
+    padding-left: 180px;
+    
+}
+
+.HT-Info {
+    color: white;
+    text-align: left;
+    position: relative;
+    bottom: 60px;
+    padding-left: 180px;
+}
+
+.AAR-Info {
+    color: white;
+    text-align: left;
+    position: relative;
+    bottom: 15px;
+    padding-left: 180px;
+    
+}
+
+.PPAI-Info {
+    color: white;
+    text-align: left;
+    position: relative;
+    top: 30px;
+    padding-left: 180px;
+}
