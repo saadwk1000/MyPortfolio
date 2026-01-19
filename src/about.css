@@ -1,7 +1,7 @@
 #AboutInfo {
   height: 90vh;
   width: 50vw;
-  background-image: url("/Others/code.jpg");
+  background-color: black;
   background-repeat: no-repeat;
   position: absolute;
   background-position-x: 250px;

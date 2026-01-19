@@ -33,7 +33,7 @@ function About() {
       </div>
 
       <div className={imgFade}>
-        <img className='Selfie' src='/Others/CU1.jpg'></img>
+        <img className='Selfie' src='./Others/CU1.jpg'></img>
       </div>
   
     </>

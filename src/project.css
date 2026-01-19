@@ -1,7 +1,7 @@
 #ProjectInfo {
     height: 90vh;
     width: 200vw;
-    background-image: url("/Others/code.jpg");
+    background-color: black;
     background-repeat: no-repeat;
     background-position-x: 890px;
     background-position-y: 350px;
@@ -20,13 +20,37 @@
     right: 300px;
 }
 
+.P2-Link {
+    position: relative;
+    background-image: url("/Others/Link.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 150px;
+    height: 30px;
+    width: 30px;
+    bottom: 85px;
+    right: 410px;
+}
+
 .P1-Main {
     position: relative;
     color: white;
     text-align: left;
 }
 
+.P2-Main {
+    position: relative;
+    color: white;
+    text-align: left;
+}
+
 .P1-Description {
+    position: relative;
+    color: white;
+    text-align: left;
+}
+
+.P2-Description {
     position: relative;
     color: white;
     text-align: left;
