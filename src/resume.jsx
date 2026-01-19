@@ -14,10 +14,10 @@ function Resume () {
     return (
         <div id='ResumeInfo' className={fadeResume}>
             <div>
-                <img className='CP' src="/CompanyLogo/CP.jpg"/>
-                <img className='PPAI' src='/CompanyLogo/PPAI.webp'/>
-                <img className='AAR' src='/CompanyLogo/AAR.png'/>
-                <img className='HT' src='CompanyLogo/HT.jpg'/>
+                <img className='CP' src="./CompanyLogo/CP.jpg"/>
+                <img className='PPAI' src='./CompanyLogo/PPAI.webp'/>
+                <img className='AAR' src='./CompanyLogo/AAR.png'/>
+                <img className='HT' src='./CompanyLogo/HT.jpg'/>
             </div>
 
             <div>

@@ -1,4 +1,3 @@
-import { BrowserRouter } from 'react-router-dom'
 import { Routes } from 'react-router-dom'
 import { Route } from 'react-router-dom'
 import About from './about.jsx'
@@ -10,7 +9,6 @@ import Project from './project.jsx'
 
 function App () {
     return (
-        <BrowserRouter>
         <Routes>
             <Route path='/'element={<Logo />} />
             <Route path='/about' element={<About />} />
@@ -20,7 +18,6 @@ function App () {
             <Route path='/contact' element={<Contact />} />
             <Route path='/project' element={<Project />} />
         </Routes>
-        </BrowserRouter>
     )
 }
 

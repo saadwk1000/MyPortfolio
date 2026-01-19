@@ -18,6 +18,12 @@ function Project() {
                 <p className="P1-Description">This is a C++ based code, specifically created to calculate your annual Zakat on Property, Gold, Silver & Cash</p>
                 <button className="P1-Link" onClick={() => window.location.href = "https://github.com/saadwk1000/Zakat-Calculator" } />
             </div>
+
+            <div className="P2">
+                <h2 className="P2-Main">Multiverse Project</h2>
+                <p className="P2-Description">This is a HTML, CSS & ReactJS based project, specifically created to embed animations like FadeIn and FadeOut using React</p>
+                <button className="P2-Link" onClick={() => window.location.href = "https://github.com/saadwk1000/MultiverseProject" } />
+            </div>
         </div>
     )    
 }

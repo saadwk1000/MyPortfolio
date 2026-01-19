@@ -19,7 +19,7 @@ function Logo() {
         <>
         <div className={fadeActive}>
             <button className='entryButton' onClick={handleClick}>
-                <img className='BIM' src='/Others/pp.jpg'/>
+                <img className='BIM' src='./Others/pp.jpg'/>
             </button>
         </div>
         </>

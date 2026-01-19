@@ -58,25 +58,25 @@ function Menu () {
         <div className={animation}>
             <div>
                 <button className='about' onClick={() => setAboutNavi(true)}>
-                    <img className='about_img' src="/Icons/About.webp"/>
+                    <img className='about_img' src="./Icons/About.webp"/>
                 </button>
             </div>
 
             <div>
                 <button className='contact' onClick={() => setContactNavi(true)}>
-                    <img className='contact_img ' src="/Icons/Contact.jpg"/>
+                    <img className='contact_img ' src="./Icons/Contact.jpg"/>
                 </button>
             </div>
 
             <div>
                 <button className='project' onClick={() => setProjectNavi(true)}>
-                    <img className='project_img' src="/Icons/Project1.jpg"/>
+                    <img className='project_img' src="./Icons/Project1.jpg"/>
                 </button>
             </div>
 
             <div>
                 <button className='resume' onClick={() => setResumeNavi(true)}>
-                    <img className='resume_img' src="/Icons/CV.jpg"/>
+                    <img className='resume_img' src="./Icons/CV.jpg"/>
                 </button>
             </div>
         </div>
